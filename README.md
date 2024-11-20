@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am an open-minded Full Stack Developer who's ready for new challenges. I am specialized in building Management Information Systems (MIS) for organizations and businesses. My favorite stack is Laravel, MySql, PostgreSQL, JavaScript/ReactJs, NextJs, Redux, React Query and Tailwind. I like competitive programming and solving problems.⚡🤝 I love working with great people, inspiring others, and being inspired.
+I am an open-minded Full Stack Developer who's ready for new challenges. I am specialized in building Management Information Systems (MIS) for organizations and businesses. My favorite stack is Laravel, JavaScript/ReactJs, NextJs, Redux, React Query, Tailwind, MySql and PostgreSQL, . I like competitive programming and solving problems.⚡🤝 I love working with great people, inspiring others, and being inspired.
 
 
 ## 🌐 Socials:
