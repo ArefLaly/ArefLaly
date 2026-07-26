@@ -1,89 +1,185 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=220&section=header&text=Mohammad%20Arif%20Laly&fontSize=52&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20MIS%20%26%20Systems%20Architect&descAlign=50&descAlignY=60" alt="Mohammad Arif Laly Header" />
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17&text=Mohammad%20Arif%20Laly&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Laravel%20•%20React%20•%20Next.js&descAlignY=55" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-arif-laly-69ba78233)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aref.laly1397@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArefLaly)
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Enterprise+ERP+Developer;Laravel+%7C+React+%7C+Next.js;MIS+Architecture;Always+Learning+New+Technologies" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ArefLaly&icon=0&color=0&label=Profile%20Views)](https://visitcount.itsvg.in)
+<br><br>
 
-</div>
+<a href="https://linkedin.com/in/mohammad-arif-laly-69ba78233">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:aref.laly1397@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 💡 Executive Pitch
+<a href="https://github.com/ArefLaly">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> *"Engineering resilient, high-throughput software architectures that translate complex operational data into effortless enterprise workflows."*
+<br><br>
 
-I am a Full-Stack Software Engineer specialized in architecting and scaling enterprise-grade **Management Information Systems (MIS)**. Leveraging modern web technology stacks—Laravel, React, Next.js, and advanced relational database modeling—I build performant systems designed for precision, reliability, and long-term maintainability.
-
-* 🔭 **Current Focus:** Large-scale MIS application architecture & dynamic frontend state synchronization
-* 🧩 **Engineering Core:** Algorithmic optimization, type-safe APIs, and clean domain-driven architecture
-* ⚡ **Passion:** Competitive programming, performance benchmarking, and continuous system refinement
-
----
-
-### 🚀 Technical Expertise
-
-<div align="left">
-
-#### **Core Stack & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-#### **State & Data Management**
-<p>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-#### **Database & Storage Architecture**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<!-- <img src="https://komarev.com/ghpvc/?username=ArefLaly&style=for-the-badge&color=blue"/> -->
 
 </div>
 
 ---
+# 👨‍💻 About Me
 
-### 📊 Engineering Analytics
+Hi there! 👋 I'm **Mohammad Arif Laly**, a **Full-Stack Software Engineer** passionate about building scalable, secure, and high-performance enterprise applications.
+
+I specialize in designing and developing **Enterprise Resource Planning (ERP)** and **Management Information Systems (MIS)** that streamline business operations across finance, human resources, supply chain, inventory, procurement, sales, and production.
+
+With a strong foundation in **Laravel**, **React**, and **Next.js**, I enjoy turning complex business requirements into clean, maintainable, and user-friendly software. I believe that great software is not just about writing code—it's about creating reliable systems that solve real-world problems and scale with business growth.
+
+---
+
+### 🚀 What I Build
+
+- 🏢 Enterprise ERP & MIS Solutions
+- ⚙️ Scalable Backend Systems
+- 🌐 RESTful APIs & System Integrations
+- 📊 Business Automation Platforms
+- 🗄️ High-Performance Database Architectures
+- 🔐 Secure Authentication & Authorization
+- 📱 Modern Responsive Web Applications
+
+---
+
+### 💼 Professional Focus
+
+- Enterprise Software Development
+- Software Architecture & System Design
+- Performance Optimization
+- Database Design & Query Optimization
+- Clean Code & Design Patterns
+- Business Process Automation
+- API Development & Integration
+
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArefLaly&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArefLaly&theme=dark&layout=compact)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ArefLaly&theme=dark)
+<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,js,redux,nodejs,mysql,postgres,docker,redis,git,github,linux,vscode,postman,npm,vite&perline=10"/>
 
 </div>
 
 ---
 
-### 🏆 Distinguished Achievements
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArefLaly&theme=radical&margin-w=4)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArefLaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArefLaly&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ArefLaly&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArefLaly&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArefLaly&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Requires GitHub Actions**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ArefLaly/ArefLaly/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 💼 Current Focus
+
+- 🚀 Building Enterprise ERP Systems
+- ⚡ High Performance Laravel Applications
+- 🔥 React + Next.js Architecture
+- 🧠 Clean Architecture
+- 📦 REST API Development
+- 📊 Management Information Systems
+- 🔒 Secure & Scalable Backend Systems
+
+---
+
+# 🌟 Featured Technologies
+
+| Backend | Frontend | Database | DevOps |
+|---------|----------|----------|---------|
+| Laravel | React | MySQL | Docker |
+| PHP | Next.js | PostgreSQL | Linux |
+| REST API | TypeScript | Redis | Git |
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:aref.laly1397@gmail.com">
+<img src="https://img.shields.io/badge/Email-aref.laly1397@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/mohammad-arif-laly-69ba78233">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Arif%20Laly-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ArefLaly">
+<img src="https://img.shields.io/badge/GitHub-ArefLaly-black?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>© Mohammad Arif Laly • Built for High Scalability & Clean Code</sub>
+
+### 💬 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br>
+
+⭐ **If you like my work, consider starring my repositories!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 </div>
