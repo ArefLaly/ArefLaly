@@ -1,76 +1,57 @@
 <div align="center">
 
-# Hi there, I'm Mohammad Arif 👋
-### 💻 Full Stack Developer & Problem Solver
+#
 
-  <a href="https://linkedin.com/in/mohammad-arif-laly-69ba78233">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:000000&height=220&section=header&text=M.%20Arif%20Laly&fontSize=60&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Architect%20%7C%20MIS%20Specialist&descAlign=50&descAlignY=60" alt="Mohammad Arif Laly Header" />
 
-<br/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=ArefLaly&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-arif-laly-69ba78233)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-### 💫 About Me
+### 💡 The Mission
 
-I am an open-minded **Full Stack Developer** driven by new challenges and continuous learning. My primary focus is designing and building robust **Management Information Systems (MIS)** for organizations and businesses.
+> "Building intelligent, scalable, and secure software systems that empower organizations through precise data management."
 
-- ⚡ **Specialty:** MIS Architecture & Scalable Web Applications
-- 🧩 **Passions:** Competitive Programming, Data Structures & Algorithmic Problem Solving
-- 🤝 **Mindset:** Collaborative, adaptive, inspiring team member, and eager learner
+I architect high-performance **Management Information Systems (MIS)**, transforming operational complexity into streamlined digital workflows. My passion lies at the intersection of data integrity, system scalability, and algorithmic efficiency.
 
 ---
 
-### 🛠️ Tech Stack
-
-#### **Languages & Frameworks**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **State & Data Management**
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies
+### 🚀 Technical Expertise
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArefLaly&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArefLaly&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArefLaly&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Distinguished Achievments
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArefLaly&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArefLaly&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArefLaly&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
 
-<br/>
+---
+
+### 🔥 Development Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArefLaly&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArefLaly&theme=transparent&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Mohammad Arif</sub>
+  <sub>© Mohammad Arif Laly • Designed for Impact and Precision</sub>
 </div>
