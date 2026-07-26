@@ -94,15 +94,6 @@ With a strong foundation in **Laravel**, **React**, and **Next.js**, I enjoy tur
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArefLaly&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
