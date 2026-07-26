@@ -3,9 +3,7 @@
 <!-- ========================= -->
 <!--        HEADER             -->
 <!-- ========================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17&text=Mohammad%20Arif%20Laly&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Laravel%20•%20React%20•%20Next.js&descAlignY=55" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F0F,50:1C1C1C,100:D4AF37&text=Mohammad%20Arif%20Laly&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Laravel%20•%20React%20•%20Next.js&descAlignY=55&descSize=20" />
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Enterprise+ERP+Developer;Laravel+%7C+React+%7C+Next.js;MIS+Architecture;Always+Learning+New+Technologies" />
